@@ -1,20 +1,20 @@
-# ¡Hola, bienvenido a mi perfil de GitHub! 👋
+# Hello, welcome to my GitHub profile! 👋
 
-Soy Alejandro, un apasionado por la programación. En este espacio, podrás encontrar una variedad de proyectos y contribuciones que reflejan mis habilidades y conocimientos. ¡Explora, aprende y siéntete libre de conectarte!
+I'm Alejandro, passionate about programming. In this space, you will be able to find a variety of projects and contributions that reflect my skills and knowledge. Explore, learn and feel free to connect!
 
-## Sobre mí
+## About me
 
-- 🌱 Actualmente estoy aprendiendo desarrollo web.
-- 💬 Puedes preguntarme sobre apps android.
-- 📫 Encuéntrame en: [LinkedIn](https://www.linkedin.com/in/davidalejandroherrera/)
+- 🌱 I am currently learning web development.
+- 💬 You can ask me about android apps.
+- 📫 Meet me at: [LinkedIn](https://www.linkedin.com/in/davidalejandroherrera/)
 
-## Tecnologías
+## Technologies
 
-- Lenguajes: Java, Kotlin, XML, HTML, CSS, JS, JSON.
-- Herramientas: Android Studio, Visual Studio Code.
+- Java, Kotlin, XML, HTML, CSS, JS, JSON.
+- Android Studio, Visual Studio Code.
 
-## Contacto
+## Contact
 
-¡No dudes en contactarme! Estoy emocionado por conectar con personas afines y aprender juntos.
+Do not hesitate to contact me! I am excited to connect with like-minded people and learn together.
 
 [Correo Electrónico](mailto:alejandromarmilich@gmail.com)
