@@ -1,34 +1,17 @@
 # ¡Hola, bienvenido a mi perfil de GitHub! 👋
 
-Soy [Tu Nombre], un apasionado por [tus intereses o áreas de expertise]. En este espacio, podrás encontrar una variedad de proyectos y contribuciones que reflejan mis habilidades y conocimientos. ¡Explora, aprende y siéntete libre de conectarte!
+Soy Alejandro, un apasionado por la programación. En este espacio, podrás encontrar una variedad de proyectos y contribuciones que reflejan mis habilidades y conocimientos. ¡Explora, aprende y siéntete libre de conectarte!
 
 ## Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo [tecnologías o habilidades actuales en desarrollo].
-- 💬 Puedes preguntarme sobre [temas en los que eres experto o te sientes cómodo ayudando].
-- 📫 Encuéntrame en: [LinkedIn](https://www.linkedin.com/in/tu-usuario-de-linkedin/) | [Twitter](https://twitter.com/tu-usuario-de-twitter)
-- ⚡ Dato curioso: [Comparte un dato curioso o una anécdota interesante sobre ti].
-
-## Proyectos Destacados
-
-### [Nombre del Proyecto 1](enlace-al-proyecto)
-Breve descripción del proyecto y su importancia.
-
-### [Nombre del Proyecto 2](enlace-al-proyecto)
-Breve descripción del proyecto y su importancia.
-
-### [Nombre del Proyecto 3](enlace-al-proyecto)
-Breve descripción del proyecto y su importancia.
-
-## Contribuciones
-
-- [Nombre del Repositorio](enlace-al-repo): Descripción de tu contribución.
-- [Nombre del Repositorio](enlace-al-repo): Descripción de tu contribución.
+- 🌱 Actualmente estoy aprendiendo desarrollo web.
+- 💬 Puedes preguntarme sobre apps android.
+- 📫 Encuéntrame en: [LinkedIn](https://www.linkedin.com/in/davidalejandroherrera/) |
 
 ## Tecnologías
 
-- Lenguajes: [Lista de lenguajes que dominas].
-- Herramientas: [Lista de herramientas y tecnologías en las que eres competente].
+- Lenguajes: Java, Kotlin, XML, HTML, CSS, JS, JSON.
+- Herramientas: Android Studio, Visual Studio Code.
 
 ## Estadísticas de GitHub
 
@@ -38,4 +21,4 @@ Breve descripción del proyecto y su importancia.
 
 ¡No dudes en contactarme! Estoy emocionado por conectar con personas afines y aprender juntos.
 
-[Correo Electrónico](mailto:tu@email.com)
+[Correo Electrónico](mailto:alejandromarmilich@gmail.com)
