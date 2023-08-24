@@ -17,4 +17,4 @@ I'm Alejandro, passionate about programming. In this space, you will be able to 
 
 Do not hesitate to contact me! I am excited to connect with like-minded people and learn together.
 
-[Correo Electrónico](mailto:alejandromarmilich@gmail.com)
+[Contact by email](mailto:alejandromarmilich@gmail.com)
