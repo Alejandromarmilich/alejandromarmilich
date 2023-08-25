@@ -1,26 +1,51 @@
-# Hello, welcome to my GitHub profile! 👋
-
+<!-- Your title -->
+## Hello, welcome to my GitHub profile! 👋
 I'm Alejandro, passionate about programming. In this space, you will be able to find a variety of projects and contributions that reflect my skills and knowledge. Explore, learn and feel free to connect!
 
-## About me
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Alejandromarmilich)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidalejandroherrera/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ale.d.herrera/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alejandromarmilich@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:davidalejandroherrera@outlook.com)
+
+&nbsp;
+
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-2357841-2016549.png" />
+
 
 - 🌱 I am currently learning web development.
 - 💬 You can ask me about android apps.
-- 📫 Meet me at: [LinkedIn](https://www.linkedin.com/in/davidalejandroherrera/)
 
-## Technologies
-<img style="height: 60px; " src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" title="Java"/>
-<img style="height: 60px; " src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin"  title="Kotlin"/>
-<img style="height: 60px;" src="https://img.freepik.com/premium-vector/modern-flat-design-xml-file-icon-web-simple-style_599062-556.jpg?w=2000" alt="XML"  title="XML"/>
-<img style="height: 60px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML"  title="HTML"/>
-<img style="height: 60px;" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS"  title="CSS"/>
-<img style="height: 60px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS"  title="JS"/>
-<img style="height: 60px;" src="https://icons.veryicon.com/png/o/miscellaneous/form-editor/10json.png" alt="JSON"  title="JSON"/>
-<img style="height: 60px;" src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="androi studio"  title="Android Studio"/>
-<img style="height: 60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="androi studio"  title="Visual Studio Code"/>
+**Languages and Tools:** 
 
-## Contact
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
 
-Do not hesitate to contact me! I am excited to connect with like-minded people and learn together.
+</p>
 
-[Contact by email](mailto:alejandromarmilich@gmail.com)
